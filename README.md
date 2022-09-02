@@ -20,7 +20,7 @@
   <img align="center" alt="Lari-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Lari-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">  
   <img align="right" alt="Lari-pic" height="150" style="border-radius:50px;" 
-src="https://discord.com/channels/750462901290270800/771935325240950785/1015401227514810470">
+src="https://media2.giphy.com/media/t40qBXY7xMpTKGfEOp/giphy.gif?cid=790b76113dbf3bdb2c65385e48fa46d82bf1f007a2db9b66&rid=giphy.gif&ct=g">
 </div>
   
 ##
