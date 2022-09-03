@@ -1,17 +1,19 @@
 ### Hi there! 👋
-
+  
 - 🔭 I’m currently working on Fullstack Development.
 - 🌱 I’m currently learning Front-end and Back-end with JAVA, Structured QUERY Language (SQL), HTML + CSS + JAVASCRIPT: HTML5, CSS3, BOOTSTRAP, DOM.
 - 😄 Pronouns: she / her
 
+##
+
+<img align="right" alt="Lari-pic" height="150" style="border-radius:50px;" 
+src="https://media2.giphy.com/media/t40qBXY7xMpTKGfEOp/giphy.gif?cid=790b76113dbf3bdb2c65385e48fa46d82bf1f007a2db9b66&rid=giphy.gif&ct=g">
+<div>
 <div align="center">
   <a href="https://github.com/nogueirarissa">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nogueirarissa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueirarissa&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=nogueirarissa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nogueirarissa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <img align="right" alt="Lari-pic" height="150" style="border-radius:50px;" 
-src="https://media2.giphy.com/media/t40qBXY7xMpTKGfEOp/giphy.gif?cid=790b76113dbf3bdb2c65385e48fa46d82bf1f007a2db9b66&rid=giphy.gif&ct=g">
-<div>  
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Lari-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
